@@ -1,0 +1,130 @@
+{
+ "success": true,
+ "error": null,
+ "result": {
+  "numEntities": 8877,
+  "entities": [
+   {
+    "id": 1104528,
+    "name": "Pediatre P.M.I.",
+    "withAppointments": false,
+    "entityType": "medicalCenter"
+   },
+   {
+    "id": 1125176,
+    "name": "Chu La Miletrie - Pediatre",
+    "withAppointments": false,
+    "entityType": "medicalCenter"
+   },
+   {
+    "id": 1095376,
+    "name": "Chrn Hop.D Enfants",
+    "withAppointments": false,
+    "entityType": "medicalCenter"
+   },
+   {
+    "id": 1105342,
+    "name": "Hôpital Pierre Zobda-Quitman",
+    "withAppointments": false,
+    "entityType": "medicalCenter"
+   },
+   {
+    "id": 10537938,
+    "name": "Dr Jerome Le Bidois",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 12808825,
+    "name": "Dr rahnia assoul",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 1096270,
+    "name": "Hospices Civils de Lyon - Drc",
+    "withAppointments": false,
+    "entityType": "medicalCenter"
+   },
+   {
+    "id": 12814528,
+    "name": "Dr Nicole Vincent",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 10462010,
+    "name": "Dr Charles Baranes",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 10539530,
+    "name": "Dr Sophie Guilloux",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 12898920,
+    "name": "Dr Andreea-Sorina Pipos",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 1097089,
+    "name": "Clinique de la Main (Chirurgie de la main)",
+    "withAppointments": false,
+    "entityType": "medicalCenter"
+   },
+   {
+    "id": 1287906,
+    "name": "Centre Médical et Dentaire ADMS Myrha",
+    "withAppointments": false,
+    "entityType": "medicalCenter"
+   },
+   {
+    "id": 12901335,
+    "name": "Dr Jamal Mourad",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 10577945,
+    "name": "Dr Nhân Pham Thi",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 1119740,
+    "name": "Centre Médical et Dentaire A.D.M.S.",
+    "withAppointments": false,
+    "entityType": "medicalCenter"
+   },
+   {
+    "id": 10538220,
+    "name": "Dr Younes Boudjemline",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 10577908,
+    "name": "Dr Nhan Pham-Thi",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 10537112,
+    "name": "Dr Eric Paris",
+    "withAppointments": false,
+    "entityType": "doctor"
+   },
+   {
+    "id": 1094055,
+    "name": "Clinique Du Sport",
+    "withAppointments": false,
+    "entityType": "medicalCenter"
+   }
+  ],
+  "poweredBy": "\"powered"
+ }
+}
